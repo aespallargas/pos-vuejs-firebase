@@ -1,14 +1,11 @@
-# pos-vue
+# Punto de Venta - Vue
 
-This template should help get you started developing with Vue 3 in Vite.
+Punto de venta sencillo creado con Vue y Firebase
 
-## Recommended IDE Setup
+## Demo Website
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+https://pos-vuejs-firebase-sable.vercel.app/
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
